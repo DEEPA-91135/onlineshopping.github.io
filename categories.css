@@ -1,0 +1,19 @@
+body
+{
+
+	background-image:url('n25.jpg');
+	background-size:cover;
+	}
+
+	h1{
+	background: rgb(60,51,51);
+	padding-left: 10px;
+	padding-bottom: 5px;
+	color: white;
+}	
+h2
+{
+	font-size: 2.0em;
+	font-family: italic; 
+	color: #333333;
+}
